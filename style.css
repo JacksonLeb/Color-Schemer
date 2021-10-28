@@ -1,0 +1,149 @@
+html {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-flow: column;
+    background-color: gray;
+    height: 100%;
+
+}
+
+.container-fluid {
+    padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+.row {
+    margin: 0px !important;
+    padding: 0px !important;
+    
+    
+}
+
+.my-col {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+}
+
+.padding-0 {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.number {
+    border-radius: 0px;
+    height: 100px;
+    background-color: #85DE77;
+}
+
+button.gen {
+    background-color: #FFF49C;
+    border-color: black;
+    border-radius: 0px;
+    height: 100px;
+}
+button.num {
+    background-color: #85DE77;
+    border-color: black;
+    border-radius: 0px;
+    height: 100px;
+}
+button.back {
+    background-color: #F7EF64;
+    border-color: black;
+    border-radius: 0px;
+    height: 100px;
+}
+button.harm {
+    background-color: #85A8BA;
+    border-color: black;
+    border-radius: 0px;
+    height: 100px;
+}
+.form-control {
+    background-color:  #85DE77;
+
+}
+
+.color-container {
+    height: 100%;
+}
+
+.two-rectangles {
+    height: 100%;
+    text-align: center;
+    border: solid black 4px;
+}
+
+.rec1 {
+    height: 100%;
+    border: 4px solid black;
+}
+
+.rec2 {
+    height: 100%;
+    border: 4px solid black;
+}
+
+.rec3 {
+    height: 100%;
+    border: 4px solid black;
+}
+
+.rec4 {
+    height: 100%;
+    border: 4px solid black;
+}
+
+.rec5 {
+    height: 100%;
+    border: 4px solid black;
+}
+
+.rec6 {
+    height: 100%;
+    border: 4px solid black;
+}
+
+.rec7 {
+    height: 100%;
+    border: 4px solid black;
+}
+
+.rec8 {
+    height: 100%;
+    border: 4px solid black;
+}
+
+
+
+
+.colorcontent {
+    position: relative;
+    top: 95%;
+    color: black;
+    display: inline-block;
+    
+}
+
+
+.two {
+    background-color:  #85DE77;
+}
+
+.four {
+    background-color:  #85DE77;
+}
+
+.six {
+    background-color:  #85DE77;
+}
+
+.eight {
+    background-color:  #85DE77;
+}
+
